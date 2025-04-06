@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\migrations\\20250125070038_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\migrations\\20250125070038_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|c:\\users\\abdimajiid sahal\\source\\repos\\webapp\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A15892B-710A-4900-9122-84A4EFD6ADF2}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T14:45:51.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T07:53:03.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "API\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:35:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250125070038_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Migrations\\20250125070038_FirstMigration.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20250125070038_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Migrations\\20250125070038_FirstMigration.cs",
+              "RelativeToolTip": "API\\Migrations\\20250125070038_FirstMigration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T07:00:39.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Models\\Client.cs",
+              "RelativeToolTip": "API\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:51:04.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-25T06:48:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:36:05.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Abdimajiid Sahal\\source\\repos\\WebApp\\API\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "API\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T06:45:03.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
